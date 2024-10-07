@@ -8,7 +8,7 @@
 
 ## ⚡ 배포 링크
 
-> ### [LOL-DEX] (https://monggleroad.vercel.app/)](https://lol-dex-pi.vercel.app/)
+> ### [LOL-DEX] (https://lol-dex-pi.vercel.app/)
 
 <br/>
 

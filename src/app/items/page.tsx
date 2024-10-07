@@ -3,7 +3,7 @@ import { getItemList } from "@/utils/serverApi";
 import Image from "next/image";
 import React from "react";
 
-export const ItemsPage = async () => {
+const ItemsPage: React.FC = async () => {
   const data: Item[] = await getItemList();
 
   return (
@@ -42,5 +42,4 @@ export const ItemsPage = async () => {
     </>
   );
 };
-
 export default ItemsPage;

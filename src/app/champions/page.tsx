@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
-export const ChampionsPage = async () => {
+const ChampionsPage: React.FC = async () => {
   const data: Champion[] = await getChampionList();
 
   return (

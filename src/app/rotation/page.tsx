@@ -10,7 +10,7 @@ const fetchRotation = async () => {
   return data;
 };
 
-export const RotationPage = () => {
+const RotationPage: React.FC = () => {
   const [champions, setChampions] = useState<Champion[]>([]);
 
   useEffect(() => {
@@ -61,5 +61,4 @@ export const RotationPage = () => {
     </>
   );
 };
-
 export default RotationPage;

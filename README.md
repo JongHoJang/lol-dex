@@ -12,11 +12,11 @@
 
 <br/>
 
-## 📦 파일 구조
-
 <details>
 <summary>파일 구조</summary>
 <br/>
+
+```plaintext
 📦src
  ┣ 📂app
  ┃ ┣ 📂api
@@ -50,6 +50,7 @@
  ┃ ┣ 📜riotApi.ts
  ┃ ┗ 📜serverApi.ts
  ┗ 📜.DS_Store
+```
 </details>
 <br/>
 
@@ -112,16 +113,24 @@
 
 
 
+## 😊 트러블 슈팅
+
+> TypeScript에서 배열 타입과 'undefined' 타입 문제 해결하기
+> (https://lol-dex-pi.vercel.app/)](https://jangjh9414.tistory.com/269)
+
+
+
+
+
 ## 😊 프로젝트 소감
 
-```
+
 언제나 새로운 API를 활용할때면 당황하게 되는 것 같다. 이번 프로젝트에서 Riot API를 처음 접하면서 당황했던 기억이 있다. API마다 API-KEY가 필요한 경우와 그렇지 않은 경우로 나뉘고, 매일 새로운 KEY를 발급받아야하는 등 새로운 API에 적응하는데 시간이 좀 걸렸던 것 같다.
 그동안 React에 조금 익숙해졌다고 생각했는데, Next.js와 TypeScript를 처음 사용하면서 다시 처음 React를 배우는 기분이 조금 들었다. 하지만 이번 프로젝트를 통해 점차 Next.js와 TypeScript의 사용법을 익힐 수 있었다.
 
 
 데이터를 패칭할 때 `Route Handlers`, `Server Actions` 등 다양한 방법을 시도하면서 어려움을 겪었던 부분도 있었고, 다시 복습이 필요한 부분들도 많았지만, 이번 프로젝트를 통해 다양한 렌더링 방식(ISR, 동적 렌더링, 클라이언트 사이드, SSG)을 활용할 수 있어 좋은 경험이 되었다.
 
-```
 
 
 <br/>

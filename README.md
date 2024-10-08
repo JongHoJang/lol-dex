@@ -1,8 +1,14 @@
+<p align = "center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LOL-DEX&fontSize=70" />
+</p>
+<br>
+
+
 
 # LOL-DEX
 
-> Riot API를 활용한 리그 오브 레전드 정보 앱 만들기.<br>
-> NextJS와 TypeScript를 사용하여 Riot API를 활용한 어플리케이션.<br/>
+Riot API를 활용한 리그 오브 레전드 정보 앱 만들기.<br>
+NextJS와 TypeScript를 사용하여 Riot API를 활용한 어플리케이션.<br/>
 
 <br/>
 
@@ -115,8 +121,8 @@
 
 ## 😊 트러블 슈팅
 
-> TypeScript에서 배열 타입과 'undefined' 타입 문제 해결하기
-> (https://lol-dex-pi.vercel.app/)](https://jangjh9414.tistory.com/269)
+TypeScript에서 배열 타입과 'undefined' 타입 문제 해결하기<br/>
+(https://lol-dex-pi.vercel.app/)](https://jangjh9414.tistory.com/269)<br/>
 
 
 
@@ -125,7 +131,7 @@
 ## 😊 프로젝트 소감
 
 
-언제나 새로운 API를 활용할때면 당황하게 되는 것 같다. 이번 프로젝트에서 Riot API를 처음 접하면서 당황했던 기억이 있다. API마다 API-KEY가 필요한 경우와 그렇지 않은 경우로 나뉘고, 매일 새로운 KEY를 발급받아야하는 등 새로운 API에 적응하는데 시간이 좀 걸렸던 것 같다.
+언제나 새로운 API를 활용할때면 당황하게 되는 것 같다. 이번 프로젝트에서 Riot API를 처음 접하면서 당황했던 기억이 있다. API마다 API-KEY가 필요한 경우와 그렇지 않은 경우로 나뉘고, 매일 새로운 KEY를 발급받아야하는 등 새로운 API에 적응하는데 시간이 좀 걸렸던 것 같다.<br/>
 그동안 React에 조금 익숙해졌다고 생각했는데, Next.js와 TypeScript를 처음 사용하면서 다시 처음 React를 배우는 기분이 조금 들었다. 하지만 이번 프로젝트를 통해 점차 Next.js와 TypeScript의 사용법을 익힐 수 있었다.
 
 

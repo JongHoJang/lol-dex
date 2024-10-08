@@ -18,6 +18,9 @@ NextJS와 TypeScript를 사용하여 Riot API를 활용한 어플리케이션.<b
 
 <br/>
 
+
+## 🗂️ 파일 구조
+
 <details>
 <summary>파일 구조</summary>
 <br/>
@@ -119,7 +122,7 @@ NextJS와 TypeScript를 사용하여 Riot API를 활용한 어플리케이션.<b
 
 
 
-## 😊 트러블 슈팅
+## ✍️ 트러블 슈팅
 
 TypeScript에서 배열 타입과 'undefined' 타입 문제 해결하기<br/>
 (https://lol-dex-pi.vercel.app/)](https://jangjh9414.tistory.com/269)<br/>
